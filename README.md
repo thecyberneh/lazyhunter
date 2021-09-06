@@ -3,11 +3,18 @@ Lazyhunter is a tool  which used to automate whole process from finding subdomai
 
 ![Image of tool](https://github.com/NehPatel24/lazyhunter/blob/main/lazyhunter.png)
 
-<h1>installation</h1>
+<h1>Installation</h1>
 
 ```
 cd lazyhunter
 bash installer.sh
+```
+
+<h1>Usage</h1>
 
 ```
+cd lazyhunter
+bash lazyhunter.sh
+```
+
 
