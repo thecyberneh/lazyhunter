@@ -44,6 +44,8 @@ subfinder -d ${DOMAIN} -nW > ${DOMAIN}-activeDomain.txt
 
 cat ${DOMAIN}-activeDomain.txt | waybackurls > ${DOMAIN}-waybackurls.txt 
 
+echo -e "$by"SCAN OF WAYBACKURLS MAY TAKE SOME TIME, HAVE A COFFEE AND WAIT... "$bye"
+
 echo -e "$by"SELECT VULNERABILITY "$bye"
 
 printf "\e[1;92m[\e[0m\e[1;77m01\e[0m\e[1;92m]\e[0m\e[1;91m xss\e[0m      \e[1;92m[\e[0m\e[1;77m08\e[0m\e[1;92m]\e[0m\e[1;91m lfi\e[0m   \n"                                
