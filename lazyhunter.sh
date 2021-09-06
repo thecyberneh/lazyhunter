@@ -19,14 +19,14 @@ printf ""$by"
 "$bye""
 
 
-printf ""$by"
+printf ""$br"
 
 Twitter:-    https://twitter.com/IAmNehPatel
 Instagram :- https://www.instagram.com/thecyber.neh/
 Linkedin :-  https://www.linkedin.com/in/thenehpatel/
 
 
-"$bye""
+"$bre""
 
 
 
