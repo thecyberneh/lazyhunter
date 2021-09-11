@@ -16,3 +16,13 @@ mkdir .gf
 echo -e "$by"Installing Gf-Patterns..."$bye"
 git clone https://github.com/1ndianl33t/Gf-Patterns
 mv ~/Gf-Patterns/*.json ~/.gf
+
+
+cd ~
+cd go
+cd bin
+cp waybackurls /usr/bin/
+cp subfinder /usr/bin/
+cp kxss /usr/bin/
+cp gf /usr/bin/
+
