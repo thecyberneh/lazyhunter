@@ -1,5 +1,5 @@
 echo -e "$by"Must Run in Root..."$bye"
-sudo su
+
 apt-get install golang-go
 
 echo -e "$by"Installing Subfinder..."$bye"
