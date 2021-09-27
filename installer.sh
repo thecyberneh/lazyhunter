@@ -1,6 +1,6 @@
 echo -e "$by"Must Run in Root..."$bye"
 
-apt-get install golang-go
+apt-get install golang-go -y
 
 echo -e "$by"Installing Subfinder..."$bye"
 GO111MODULE=on go get -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
